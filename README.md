@@ -35,4 +35,3 @@ Highly skilled and results-oriented Business Intelligence Developer passionate a
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/ikebude)
 
 Feel free to reach out for collaboration or to discuss exciting opportunities!
-```
