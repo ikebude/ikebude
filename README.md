@@ -36,8 +36,3 @@ Highly skilled and results-oriented Business Intelligence Developer passionate a
 
 Feel free to reach out for collaboration or to discuss exciting opportunities!
 ```
-
-<!---
-ikebude/ikebude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
