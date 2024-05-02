@@ -1,6 +1,6 @@
 **Hi there 👋🏾! I'm Chidi**
 
-Highly skilled and results-oriented Business Intelligence Developer passionate about leveraging data to catalyze business improvement. My expertise encompasses the entire BI lifecycle, from seamless data collection and preparation to insightful analysis, reporting, and impactful visualization.
+As a Business Intelligence Developer with a keen eye for detail and a results-driven approach, I am deeply passionate about harnessing the power of data to drive business enhancements. My proficiency spans the full spectrum of the Business Intelligence lifecycle, from the meticulous gathering and preparation of data, through to incisive analysis, comprehensive reporting, and the creation of visually compelling visualizations. My commitment to excellence in these areas is unwavering, and I continually strive to exceed expectations in all aspects of my work. Welcome to my GitHub profile, where data meets innovation.
 ****
 ## Experience
 
