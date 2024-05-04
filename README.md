@@ -18,7 +18,7 @@ As a Business Intelligence Developer with a keen eye for detail and a results-dr
 - Applied cutting-edge techniques to real-world scenarios, further solidifying my commitment to harnessing the power of data for tangible business outcomes.
 *****
 ## Projects
-- [Customer-Retention-Analysis](https://github.com/ikebude/Customer-Retention-Analysis) - This project will focus on using tool is Power BI like DAX, python libriaries like Numpy, Seborn and Tidyverse(R programming) in analyzing the reasons for customers quitting and understanding where it actually has impact the most, then we look for Solutions that can drive the Retention Manager to a fruitful Operation.
+- [Customer-Retention-Analysis](https://github.com/ikebude/Customer-Retention-Analysis) - Uncover the secrets of customer churn with our project, "Customer Retention Analysis." Using cutting-edge tools like Power BI and Python libraries (Numpy, Seaborn, Tidyverse), we dissect why customers leave and where it impacts most. Our goal? Equipping Retention Managers with actionable insights for effective strategies. Join us in decoding data to drive lasting success.
 - [BI-Analytics-Projects](https://github.com/ikebude/BI-Analytics-Projects) - Data Analytics Job simulation using Excel, Power BI, SQL, python and R programming language.
 - [Power-BI-DashBoard-Projects](https://github.com/ikebude/Power-BI-DashBoard-Projects) - Creating Interactive dashboards and KPI to understand data.
 *****
@@ -28,7 +28,7 @@ As a Business Intelligence Developer with a keen eye for detail and a results-dr
 - Statistical Analysis
 - Python
 - R Markdown
-- Microsoft Power Platform
+- Microsoft Power BI
 ******
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/precious-ikebude/)
