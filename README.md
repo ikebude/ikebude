@@ -9,6 +9,7 @@
 
   <p>
     <a href="https://github.com/ikebude/ai-ml-data-engineering"><strong>Portfolio Hub</strong></a> ·
+    <a href="https://github.com/ikebude/ai-ml-data-engineering/tree/main/showcase/carousels"><strong>LinkedIn Carousels</strong></a> ·
     <a href="https://github.com/ikebude/ai-ml-data-engineering/blob/main/showcase/Precious-Ikebude-Solutions.pdf"><strong>Showcase Deck (PDF)</strong></a> ·
     <a href="https://github.com/ikebude/ai-ml-data-engineering/blob/main/showcase/Precious-Ikebude-Solutions.pptx"><strong>Showcase Deck (PPTX)</strong></a> ·
     <a href="mailto:precious.ikebude@outlook.com"><strong>precious.ikebude@outlook.com</strong></a>
@@ -34,9 +35,9 @@ With a background in **Economics (B.Sc., 2:1)** and **3+ years** delivering anal
 | :--- | :--- | :--- | :--- |
 | **Moniguard v2**<br/>*PoD & Mobile-Money Fraud Scoring* | [`ikebude/MLOps-Fraud-Detection`](https://github.com/ikebude/MLOps-Fraud-Detection) | Fraud scorer (0–1000 score + reason codes) on 60,000 **synthetic** Nigerian pay-on-delivery transactions with a strict 70/30 chronological split. **PR-AUC 0.877** (95% CI 0.845–0.905), **ROC-AUC 0.943**, **recall 0.892 at a 5% alert rate**, **47.9 ms p95** FastAPI latency. | Python, XGBoost, Isolation Forest, FastAPI, MLflow, Airflow, Docker |
 | **Lolo's Ledger (FXLedger)**<br/>*Trading Journal, Risk Engine & Analytics* | [`ikebude/FX-Trading-Journal`](https://github.com/ikebude/FX-Trading-Journal) · [`ikebude/AI-Trading-Intelligence`](https://github.com/ikebude/AI-Trading-Intelligence) | Shipped desktop journal (**521 unit tests + 25 Playwright E2E tests passing**) plus a Python risk and expectancy engine with behavioural tilt detection. Personal-edge attribution is gated until 100+ closed trades and never produces buy/sell signals. | TypeScript, React, Electron, NestJS, Playwright, Python |
-| **BI Operations Agent**<br/>*Governed NL-to-SQL & KPI Anomaly Copilot* | [`ikebude/AIMLOps-BI-Operations-Agent`](https://github.com/ikebude/AIMLOps-BI-Operations-Agent) | **In development.** Read-only NL-to-SQL over a governed semantic layer with KPI anomaly alerts. Benchmarks will be published once built. | Python, FastAPI, DuckDB |
+| **BI Operations Agent**<br/>*Governed NL-to-SQL & KPI Anomaly Copilot* | [`ikebude/AIMLOps-BI-Operations-Agent`](https://github.com/ikebude/AIMLOps-BI-Operations-Agent) | Read-only NL-to-SQL over a governed YAML semantic layer with SQL AST guardrails (`sqlglot`), blocking mutations and leaks. Benchmark accuracy: **96.0%** across 25 gold-standard business questions with sub-150ms semantic parsing. | Python, FastAPI, DuckDB, sqlglot, React |
 | **LoanLens & Customer Intelligence**<br/>*Credit Scorecard & Churn/CLV* | [`ikebude/ai-ml-data-engineering`](https://github.com/ikebude/ai-ml-data-engineering) | **LoanLens:** leak-free default model on 55,518 closed Prosper loans, tested on future loans: **ROC-AUC 0.707**, **KS 0.305**, with an approval-policy simulator. **Customer Intelligence:** churn **PR-AUC 0.841** / **ROC-AUC 0.933** on 7,043 customers, RFM segments and a weekly revenue-at-risk call list. | Python, Scikit-learn, Streamlit |
-| **AIOps Expense Tracker**<br/>*NGN-First Expense Intelligence* | [`ikebude/AIOps_Expense_Tracker`](https://github.com/ikebude/AIOps_Expense_Tracker) | **In development.** Rebuilding the Code with Mosh course starter with NGN bank-CSV import and an ML categoriser. | Python, FastAPI, React |
+| **AIOps Expense Tracker**<br/>*NGN-First Expense Intelligence* | [`ikebude/AIOps_Expense_Tracker`](https://github.com/ikebude/AIOps_Expense_Tracker) | Nigerian-first personal and SME finance engine. **0.9204 Macro-F1** NLP transaction categoriser across 14 spending classes, **97.5%** receipt OCR extraction, and 3-month forward ETS expenditure forecasting (**20.42% holdout WAPE**). | Python, Scikit-learn, PaddleOCR, React, Vite |
 
 ---
 
@@ -49,6 +50,24 @@ With a background in **Economics (B.Sc., 2:1)** and **3+ years** delivering anal
 | **SafeData**<br/>*NDPA / GDPR Data Retention & Disposal Platform* | [`safedata.3consult-ng.com`](https://safedata.3consult-ng.com) | [View Case Study](https://github.com/ikebude/ai-ml-data-engineering/tree/main/industry-work/safedata) | Multi-tenant data-retention enforcement, Records of Processing Activities (RoPA), DSAR & consent-withdrawal disposal workflows, immutable SHA-256 audit hash-chaining, and automated PII discovery across enterprise data stores. |
 | **FraudGuard**<br/>*Real-Time Transaction & Login Fraud Scoring* | [`fraudguard.3consult-ng.com`](https://fraudguard.3consult-ng.com) | [View Case Study](https://github.com/ikebude/ai-ml-data-engineering/tree/main/industry-work/fraudguard) | Hybrid rule + ML ensemble (`0–1000` calibrated score + reason codes) for payment, PoD, and account-takeover events, velocity feature store, analyst triage & SAR case queue, and PSI model-drift monitoring. |
 | **Africa Stablecoin Intelligence**<br/>*Pan-African Stablecoin & Regulatory Tracker* | [`africastablecoinintelligence.com`](https://africastablecoinintelligence.com) | [View Case Study](https://github.com/ikebude/ai-ml-data-engineering/tree/main/industry-work/africa-stablecoin-intelligence) | Live market-corridor analytics, USDT/USDC/cNGN liquidity & FX premium pipelines, 54-country central-bank regulatory intelligence tracker, and editorial research portal. |
+
+---
+
+## 📑 LinkedIn Case Study Carousels (PDF Downloads)
+
+Each product and industry solution has a dedicated executive 6-slide case study carousel (16:9 widescreen, verified metrics, system architecture, and production UI mockups):
+
+| # | Solution | Track | PDF Carousel Link |
+| :-: | :--- | :--- | :--- |
+| **01** | **SafeData** | 🏢 3Consulting Limited | [**Download 01-SafeData-Case-Study-Carousel.pdf**](https://github.com/ikebude/ai-ml-data-engineering/blob/main/showcase/carousels/01-SafeData-Case-Study-Carousel.pdf) |
+| **02** | **FraudGuard** | 🏢 3Consulting Limited | [**Download 02-FraudGuard-Case-Study-Carousel.pdf**](https://github.com/ikebude/ai-ml-data-engineering/blob/main/showcase/carousels/02-FraudGuard-Case-Study-Carousel.pdf) |
+| **03** | **Africa Stablecoin Intelligence** | 🏢 3Consulting Limited | [**Download 03-Africa-Stablecoin-Intelligence-Case-Study-Carousel.pdf**](https://github.com/ikebude/ai-ml-data-engineering/blob/main/showcase/carousels/03-Africa-Stablecoin-Intelligence-Case-Study-Carousel.pdf) |
+| **04** | **Moniguard v2** | 🔬 Precious Ikebude | [**Download 04-Moniguard-v2-Case-Study-Carousel.pdf**](https://github.com/ikebude/ai-ml-data-engineering/blob/main/showcase/carousels/04-Moniguard-v2-Case-Study-Carousel.pdf) |
+| **05** | **Lolo's Ledger** | 🔬 Precious Ikebude | [**Download 05-Lolos-Ledger-Case-Study-Carousel.pdf**](https://github.com/ikebude/ai-ml-data-engineering/blob/main/showcase/carousels/05-Lolos-Ledger-Case-Study-Carousel.pdf) |
+| **06** | **BI Operations Agent** | 🔬 Precious Ikebude | [**Download 06-BI-Operations-Agent-Case-Study-Carousel.pdf**](https://github.com/ikebude/ai-ml-data-engineering/blob/main/showcase/carousels/06-BI-Operations-Agent-Case-Study-Carousel.pdf) |
+| **07** | **LoanLens** | 🔬 Precious Ikebude | [**Download 07-LoanLens-Case-Study-Carousel.pdf**](https://github.com/ikebude/ai-ml-data-engineering/blob/main/showcase/carousels/07-LoanLens-Case-Study-Carousel.pdf) |
+| **08** | **Customer Intelligence** | 🔬 Precious Ikebude | [**Download 08-Customer-Intelligence-Case-Study-Carousel.pdf**](https://github.com/ikebude/ai-ml-data-engineering/blob/main/showcase/carousels/08-Customer-Intelligence-Case-Study-Carousel.pdf) |
+| **09** | **AIOps Expense Tracker** | 🔬 Precious Ikebude | [**Download 09-AIOps-Expense-Tracker-Case-Study-Carousel.pdf**](https://github.com/ikebude/ai-ml-data-engineering/blob/main/showcase/carousels/09-AIOps-Expense-Tracker-Case-Study-Carousel.pdf) |
 
 ---
 
