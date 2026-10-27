@@ -103,10 +103,11 @@ All **11 Machine Learning, Statistical Modelling & Business Intelligence** proje
 
 ## Education & Credentials
 
-- **B.Sc. Economics** — University of Nigeria, Nsukka *(Second Class Upper Division / 2:1, Oct 2018 – Aug 2023)*
+- **B.Sc. Economics** — University of Nigeria, Nsukka *(Second Class Upper Division / 2:1, Sept 2017 – Nov 2022)*
 - **Google Advanced Data Analytics Professional Certificate** — Coursera *(Apr 2025)*
-- **Microsoft Certified: Azure AI Engineer Associate** — *(In View, 2026)*
 - **Managerial Economics & Business Analysis Specialization** — Gies College of Business, UIUC *(Jun 2023)*
+- **Microsoft Certified: Azure AI Engineer Associate** — *(In View, 2026)*
+
 
 ---
 
