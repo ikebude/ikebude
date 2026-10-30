@@ -22,7 +22,7 @@
 
 I bridge **executive Business Intelligence** (Power BI, SQL, governed KPI semantic layers, financial and risk reporting) and **production AI/ML systems** (calibrated fraud scoring, credit-risk scorecards, read-only NL-to-SQL agents, and containerised MLOps pipelines on FastAPI, Airflow, MLflow, and Docker).
 
-With a background in **Economics (B.Sc., 2:1)** and **3+ years** delivering analytics, data governance, and machine learning systems across fintech, banking, and enterprise consulting, I focus on what happens after the notebook: reproducible pipelines, calibrated probability outputs with decision thresholds tied to business cost, and interfaces that risk and operations teams actually use.
+With a background in **Economics (B.Sc., 2:1)** and **2+ years** delivering analytics, data governance, and machine learning work across accounting advisory, data-protection/fintech consulting, and personal ML products, I focus on what happens after the notebook: reproducible pipelines, calibrated probability outputs with decision thresholds tied to business cost, and interfaces that risk and operations teams actually use.
 
 > **📄 Solutions Showcase Deck (2025–2026):**
 > Browse the 26-slide architecture & product walkthrough — [**Download PDF**](https://github.com/ikebude/ai-ml-data-engineering/blob/main/showcase/Precious-Ikebude-Solutions.pdf) | [**Download PowerPoint (.pptx)**](https://github.com/ikebude/ai-ml-data-engineering/blob/main/showcase/Precious-Ikebude-Solutions.pptx)
@@ -108,7 +108,7 @@ All **11 Machine Learning, Statistical Modelling & Business Intelligence** proje
 - **B.Sc. Economics** — University of Nigeria, Nsukka *(Second Class Upper Division / 2:1, Sept 2017 – Nov 2022)*
 - **Google Advanced Data Analytics Professional Certificate** — Coursera *(Apr 2025)*
 - **Managerial Economics & Business Analysis Specialization** — Gies College of Business, UIUC *(Jun 2023)*
-- **Microsoft Certified: Azure AI Engineer Associate** — *(In View, 2026)*
+- **Microsoft Certified: Azure AI Engineer Associate** — *(In progress — target 2026)*
 
 
 ---
