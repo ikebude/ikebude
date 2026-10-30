@@ -45,13 +45,13 @@ With a background in **Economics (B.Sc., 2:1)** and **2+ years** delivering anal
 
 ## Industry Solutions (3Consulting Limited — Case Studies)
 
-> *Company property of 3Consulting Limited. Presented publicly as architectural case studies with live links and stack documentation — no proprietary source code is hosted in public repositories.*
+> *Company property of 3Consulting Limited. Presented publicly as architectural case studies with planned public sites and stack documentation — no proprietary source code is hosted in public repositories.*
 
-| Solution | Live Production Link | Case Study | Architecture & My Contributions |
+| Solution | Public Site | Case Study | Architecture & My Contributions |
 | :--- | :--- | :--- | :--- |
-| **SafeData**<br/>*NDPA / GDPR Data Retention & Disposal Platform* | [`safedata.3consult-ng.com`](https://safedata.3consult-ng.com) | [View Case Study](https://github.com/ikebude/ai-ml-data-engineering/tree/main/industry-work/safedata) | Multi-tenant data-retention enforcement, Records of Processing Activities (RoPA), DSAR & consent-withdrawal disposal workflows, immutable SHA-256 audit hash-chaining, and automated PII discovery across enterprise data stores. |
-| **FraudGuard**<br/>*Real-Time Transaction & Login Fraud Scoring* | [`fraudguard.3consult-ng.com`](https://fraudguard.3consult-ng.com) | [View Case Study](https://github.com/ikebude/ai-ml-data-engineering/tree/main/industry-work/fraudguard) | Hybrid rule + ML ensemble (`0–1000` calibrated score + reason codes) for payment, PoD, and account-takeover events, velocity feature store, analyst triage & SAR case queue, and PSI model-drift monitoring. |
-| **Africa Stablecoin Intelligence**<br/>*Pan-African Stablecoin & Regulatory Tracker* | [`africastablecoinintelligence.com`](https://africastablecoinintelligence.com) | [View Case Study](https://github.com/ikebude/ai-ml-data-engineering/tree/main/industry-work/africa-stablecoin-intelligence) | Live market-corridor analytics, USDT/USDC/cNGN liquidity & FX premium pipelines, 54-country central-bank regulatory intelligence tracker, and editorial research portal. |
+| **SafeData**<br/>*NDPA / GDPR Data Retention & Disposal Platform* | [`safedata.3consult-ng.com`](https://safedata.3consult-ng.com)<br/>*deployment pending verification* | [View Case Study](https://github.com/ikebude/ai-ml-data-engineering/tree/main/industry-work/safedata) | Multi-tenant data-retention enforcement, Records of Processing Activities (RoPA), DSAR & consent-withdrawal disposal workflows, immutable SHA-256 audit hash-chaining, and automated PII discovery across enterprise data stores. |
+| **FraudGuard**<br/>*Real-Time Transaction & Login Fraud Scoring* | [`fraudguard.3consult-ng.com`](https://fraudguard.3consult-ng.com)<br/>*deployment pending verification* | [View Case Study](https://github.com/ikebude/ai-ml-data-engineering/tree/main/industry-work/fraudguard) | Hybrid rule + ML ensemble (`0–1000` calibrated score + reason codes) for payment, PoD, and account-takeover events, velocity feature store, analyst triage & SAR case queue, and PSI model-drift monitoring. |
+| **Africa Stablecoin Intelligence**<br/>*Pan-African Stablecoin & Regulatory Tracker* | [`africastablecoinintelligence.com`](https://africastablecoinintelligence.com)<br/>*deployment pending verification* | [View Case Study](https://github.com/ikebude/ai-ml-data-engineering/tree/main/industry-work/africa-stablecoin-intelligence) | Live market-corridor analytics, USDT/USDC/cNGN liquidity & FX premium pipelines, 54-country central-bank regulatory intelligence tracker, and editorial research portal. |
 
 ---
 
