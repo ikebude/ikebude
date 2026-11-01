@@ -75,5 +75,6 @@ Shown as engineering case studies only; company source code is not public, and t
 - **Email:** [precious.ikebude@outlook.com](mailto:precious.ikebude@outlook.com)
 - **WhatsApp:** [+234 813 678 7181](https://wa.me/2348136787181)
 - **Website:** [ikebude.github.io](https://ikebude.github.io)
+- **Data-science portfolio:** [datascienceportfol.io/ikebude](https://www.datascienceportfol.io/ikebude)
 - **GitHub:** [github.com/ikebude](https://github.com/ikebude) · portfolio hub [ai-ml-data-engineering](https://github.com/ikebude/ai-ml-data-engineering)
 - **Kaggle:** [kaggle.com/ikebude](https://www.kaggle.com/ikebude)
