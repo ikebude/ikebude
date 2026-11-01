@@ -15,7 +15,7 @@
 
 ---
 
-I turn business data into dashboards people use, models that are measured honestly, and small services that run them. **3+ years** of data, BI and finance-analytics work since Nov 2022; currently **BI Scientist / AI/ML Engineer at 3Consulting Limited** (Lagos), after starting there as a Junior Data Analyst in Jun 2025. B.Sc. Economics (2:1).
+I turn business data into dashboards people use, models that are measured honestly, and small services that run them. **3+ years** of data, BI and finance-analytics work since Nov 2022; currently **BI Scientist || AI/ML Engineer at 3Consulting Limited** (Lagos), after starting there as a Junior Data Analyst in Jun 2025. B.Sc. Economics (2:1).
 
 **Open to:** BI Analyst · Data Analyst · Data Scientist · junior ML Engineer.
 
